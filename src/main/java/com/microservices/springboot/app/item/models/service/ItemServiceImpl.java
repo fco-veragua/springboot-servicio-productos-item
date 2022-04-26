@@ -10,7 +10,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.microservices.springboot.app.item.SpringbootServicioProductosItemApplication;
 import com.microservices.springboot.app.item.models.Item;
 import com.microservices.springboot.app.item.models.Producto;
 

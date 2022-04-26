@@ -11,5 +11,4 @@ public class SpringbootServicioProductosItemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootServicioProductosItemApplication.class, args);
 	}
-
 }

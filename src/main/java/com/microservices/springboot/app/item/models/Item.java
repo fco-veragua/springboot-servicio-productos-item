@@ -1,6 +1,5 @@
 package com.microservices.springboot.app.item.models;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
